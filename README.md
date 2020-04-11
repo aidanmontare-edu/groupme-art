@@ -67,5 +67,5 @@ Stretch Goals
 - live updating
 
 ## Get Involved
-Contact the author with your ideas! Or, on an issue or pull request if you have anything you'd like to contribute.
+Contact the author with your ideas! Or, add an issue or pull request if you have anything you'd like to contribute.
 
