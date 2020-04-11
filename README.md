@@ -55,7 +55,17 @@ Create programmatic art based on the messages of a groupme group.
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
 ## Project Roadmap
+Minimal
 - get images via https://dev.groupme.com/docs/image_service
 - creating dataframes
+- doing art
+- code cleanup
+
+Stretch Goals
+- ensure packaging works
 - oauth authentication
 - live updating
+
+## Get Involved
+Contact the author with your ideas! Or, on an issue or pull request if you have anything you'd like to contribute.
+
