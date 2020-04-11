@@ -6,5 +6,5 @@ setup(
     version='0.1.0',
     description='Create programmatic art based on the messages of a groupme group.',
     author='Aidan Montare',
-    license='MIT',
+    license='GPL-3.0-only',
 )
