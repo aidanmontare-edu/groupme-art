@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 10 23:04:06 2020
 
-@author: aidan
+@author: Aidan Montare (aam141@case.edu)
 """
 
 import os

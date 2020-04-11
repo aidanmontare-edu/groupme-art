@@ -1,10 +1,8 @@
-groupme-art
-==============================
+# groupme-art
 
-Create programmatic art based on a the messages of a groupme group.
+Create programmatic art based on the messages of a groupme group.
 
-Project Organization
-------------
+## Project Organization
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -55,3 +53,9 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+## Project Roadmap
+- get images via https://dev.groupme.com/docs/image_service
+- creating dataframes
+- oauth authentication
+- live updating
